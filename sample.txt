@@ -1,4 +1,4 @@
 Hello Git!!!
 
-this is a version v1.0 release
-this is a version v1.2 release
+this is a version v1.1 release
+this is a version v1.1 release
